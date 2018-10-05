@@ -1,0 +1,2 @@
+rtmUrl: https://slack.com/api/rtm.start?token={token}&simple_latest&no_unreads
+slackBotToken: xoxb-450387399651-450309069188-DXes5sB4TbOxzb7V5FJA1oiG
